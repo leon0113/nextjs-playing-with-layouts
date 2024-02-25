@@ -9,7 +9,7 @@ const navLinks = [
     },
     {
         label: "Dashboard",
-        path: "/dashboard"
+        path: "/dashboard/settings"
     },
     {
         label: "About",
